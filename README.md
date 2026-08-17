@@ -32,7 +32,7 @@ This project allows the user to perform basic arithmetic operations repeatedly w
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/python-loop-calculator.git
+git clone https://github.com/tanmaymistry/python-loop-calculator.git
 ```
 
 3. Open the project folder:
